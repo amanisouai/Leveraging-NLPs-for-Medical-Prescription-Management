@@ -123,9 +123,9 @@ We would like to express our gratitude to the following individuals and organiza
 
 ---
 ## Contributors
-- **Amani Souai
-- **Mohamed Ali Boumnijel
-- **Rchid Baccouchi
+- Amani Souai
+- Mohamed Ali Boumnijel
+- Rchid Baccouchi
 
 
 
