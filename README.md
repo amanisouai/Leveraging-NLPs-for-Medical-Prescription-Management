@@ -134,7 +134,7 @@ We would like to express our gratitude to the following individuals and organiza
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/amanisouai/Leveraging-NLPs-for-Medical-Prescription-Management.git
-2. **Install Dependencies:
+2. Install Dependencies:
      ```bash
     pip install -r requirements.txt**
 3. **Run the Streamlit App:**
