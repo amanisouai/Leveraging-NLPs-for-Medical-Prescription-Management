@@ -136,10 +136,10 @@ We would like to express our gratitude to the following individuals and organiza
    git clone https://github.com/amanisouai/Leveraging-NLPs-for-Medical-Prescription-Management.git
 2. Install Dependencies:
      ```bash
-    pip install -r requirements.txt**
+    pip install -r requirements.txt
 3. **Run the Streamlit App:**
      ```bash
     streamlit run app.py
 4. **Access the Application: Open your browser and navigate to**
   ```bash
-    http://localhost:8501.
+    http://localhost:8501
